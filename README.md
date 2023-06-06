@@ -44,7 +44,6 @@ pip install -r requirements.txt
 ## Usage
 
 ```python
-python main.py or open the Screenshare.exe compiled file
 ```
 
 ## Security
