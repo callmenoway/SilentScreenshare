@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
     <a href="https://github.com/callmenoway">
-    <img src="https://img.shields.io/github/repo-size/callmenoway/IP-Logger">
+    <img src="https://img.shields.io/github/repo-size/callmenoway/SilentScreenshare">
   </a>
     <a href="https://github.com/callmenoway/IP-Logger/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-important">
