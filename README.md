@@ -43,7 +43,8 @@ pip install -r requirements.txt
 
 ## Usage
 
-```python main.py
+```bash
+python main.py
 ```
 
 ## Security
