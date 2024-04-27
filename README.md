@@ -48,7 +48,7 @@ python main.py
 ```
 
 ## Security
-The tool is full undetected, i relase the [virustotal](https://www.virustotal.com/gui/file/e3ee155535832fdd6c5f2c95a990012acb159bf3441de060c4fa2545a0bab699?nocache=1) scan and dome screenshoot.
+The tool is full undetected, i relase the [virustotal](https://www.virustotal.com/gui/file/e3ee155535832fdd6c5f2c95a990012acb159bf3441de060c4fa2545a0bab699?nocache=1) scan.
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
